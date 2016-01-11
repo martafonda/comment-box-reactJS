@@ -1,0 +1,23 @@
+{
+  "name": "comment-box-reactJS",
+  "version": "0.0.0",
+  "description": "Comment box tutorial from ReactJS Webpage",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/martafonda/comment-box-reactJS.git"
+  },
+  "keywords": [
+    "ReactJS",
+    "Javascript"
+  ],
+  "author": "Marta Fonda",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/martafonda/comment-box-reactJS/issues"
+  },
+  "homepage": "https://github.com/martafonda/comment-box-reactJS"
+}
